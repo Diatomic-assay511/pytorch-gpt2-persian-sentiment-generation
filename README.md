@@ -91,7 +91,7 @@ This is where the project comes to life. Generation is an **auto-regressive loop
 ## Project Structure
 
 ```
-pytorch-gpt2-persian-review-generation/
+pytorch-gpt2-persian-sentiment-generation/
 ├── .gitignore         # Ignores data, models, logs, and Python cache
 ├── LICENSE            # MIT License file
 ├── README.md          # This file
@@ -113,8 +113,8 @@ pytorch-gpt2-persian-review-generation/
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/msmrexe/pytorch-gpt2-persian-review-generation.git
-    cd pytorch-gpt2-persian-review-generation
+    git clone [https://github.com/msmrexe/pytorch-gpt2-persian-sentiment-generation.git
+    cd pytorch-gpt2-persian-sentiment-generation
     ```
 
 2.  **Setup Environment and Install Dependencies:**
